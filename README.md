@@ -1,7 +1,7 @@
-# gdgtictactoe
+# GDG Catania TicTacToe (GoLang Backend on AppEngine for Android App Example)
 The GDG Catania TicTacToe App for DevFest Example
 
-This is the example showed ad GDG DevFest Mediterranean (18-19 October 2014 Sant'Agata di Militello,Me,Italy)
+This is the example showed at GDG DevFest Mediterranean (18-19 October 2014 Sant'Agata di Militello,ME,Italy)
 
 Developed by
 
