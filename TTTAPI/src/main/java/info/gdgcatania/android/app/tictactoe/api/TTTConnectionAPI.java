@@ -46,7 +46,7 @@ public class TTTConnectionAPI {
 
     private static final String CUSTOM_USER_AGENT = "TicTacToe Client";
 
-    private static final String BACKEND_ADDRESS = "http://gabrigotest.appspot.com";
+    private static final String BACKEND_ADDRESS = "";
 
     private static final String API_PATH = "/appConcurrent";
 
